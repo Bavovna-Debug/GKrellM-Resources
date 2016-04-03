@@ -1,0 +1,38 @@
+What is «GKrellM»?
+
+«GKrellM» (GNU Krell Monitors/Meters) is a well known system monitor software that creates a single process stack of system monitors. It can be used to monitor the computer activity. It shows the system administrators how computer resources are used under different circumstances and let them better understand how to optimize computer performance. Especially useful for administrators of large servers.
+
+«GKrellM App» establishes a connection with a «GKrellM» instance running on a remote computer and presents to user the following information about remote computer in a „human readable form“:
+• Kernel version.
+• Computer running time (uptime since last boot).
+• CPU load graph.
+• CPU usage per processor kern differenced by user/nice/system times.
+• Memory and swap usage information.
+• File systems usage - used/free/available disk space.
+• Network traffic - amount of received/sent data (with „stopwatch“ function).
+• List of active network connections.
+
+What is the target audience for «GKrellM App»?
+
+«GKrellM App» is useful for:
+1. System administrators of large servers who want to be able to get performance information about their computer systems around the clock.
+2. Software developers and testers who want to control how computer resources are used when their new developed application is running.
+
+«GKrellM HD» is the best choice for users of iPhones with large screens and iPads.
+
+«GKrellM HD Pro» comparing to «GKrellM HD Lite»:
+… does not contain Ads.
+… does not require any In-App Purchases.
+… does not require any kind of subscription.
+… does not have any limitations on the number of remote computers/servers.
+… allows simultaneous connections to several «GKrellM» instances on different computers.
+
+Privacy policy:
+
+«GKrellM App» does not store any information about your servers for any kind of statistical purpose. Exception: server names, their IP addresses and port numbers, provided by you, are stored in the App's settings. These settings are kept on your device only - they are never copied to iCloud or transferred through the network in any form.
+
+«GKrellM App» does not send any kind of information from your iOS device to third party people/servers.
+
+«GKrellM App» establishes network connections to the server only under hostnames or IP addresses, provided by you in the settings. Network connection is established only to the TCP port number provided by you individually for each server (default is 19150). Once connection is lost you are prompted to re-establish the connection.
+
+«GKrellM App» does not re-establish lost connections automatically neither establishes connections in a background mode (not under user control).
